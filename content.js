@@ -8,6 +8,7 @@ let toggleButton = null;
 function toggleUIElements() {
     const elementsToHide = [
         'header.desktop_header',
+        'header.mob_header',
         'a[href*="#myForm"][onclick*="bugReportState.setInitiateWay"]',
         'button.btn.btn-primary.hover-rp-button#openForm',
         'a.ar5iv-footer-button[href*="accessible_HTML.html"]'
