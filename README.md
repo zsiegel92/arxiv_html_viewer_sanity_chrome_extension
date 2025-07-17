@@ -25,11 +25,11 @@ This Chrome extension hides UI elements on arXiv HTML pages and provides a toggl
 
 ## Screenshots
 
-**Before (UI elements hidden):**
-![Before](screenshots/befoe.png)
+**Before (annoying UI elements, especially the "Report Issue" button above highlighted text):**
+<img src="screenshots/befoe.png" alt="Before" width="600">
 
-**After (UI elements visible):**
-![After](screenshots/after.png)
+**After (UI elements hidden):**
+<img src="screenshots/after.png" alt="After" width="600">
 
 ## Files
 
