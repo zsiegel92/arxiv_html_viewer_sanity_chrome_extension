@@ -23,6 +23,14 @@ This Chrome extension hides UI elements on arXiv HTML pages and provides a toggl
 3. Move your mouse near the bottom-right corner to reveal the toggle button
 4. Click the toggle button to show/hide the UI elements
 
+## Screenshots
+
+**Before (UI elements hidden):**
+![Before](screenshots/befoe.png)
+
+**After (UI elements visible):**
+![After](screenshots/after.png)
+
 ## Files
 
 - `manifest.json` - Extension configuration
